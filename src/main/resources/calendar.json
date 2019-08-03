@@ -1,0 +1,440 @@
+{
+  "calendars": [
+    {
+      "date": "2019-07-17",
+      "cavs": [
+        {
+          "name": "Botafogo",
+          "visit": [
+            {
+              "hour": "10",
+              "carId": null
+            },
+            {
+              "hour": "11",
+              "carId": 1
+            },
+            {
+              "hour": "12",
+              "carId": null
+            },
+            {
+              "hour": "13",
+              "carId": null
+            },
+            {
+              "hour": "14",
+              "carId": null
+            },
+            {
+              "hour": "15",
+              "carId": null
+            },
+            {
+              "hour": "16",
+              "carId": null
+            },
+            {
+              "hour": "17",
+              "carId": null
+            }
+          ],
+          "inspection": [
+            {
+              "hour": "10",
+              "carId": null
+            },
+            {
+              "hour": "11",
+              "carId": 7
+            },
+            {
+              "hour": "12",
+              "carId": null
+            },
+            {
+              "hour": "13",
+              "carId": null
+            },
+            {
+              "hour": "14",
+              "carId": null
+            },
+            {
+              "hour": "15",
+              "carId": null
+            },
+            {
+              "hour": "16",
+              "carId": null
+            },
+            {
+              "hour": "17",
+              "carId": null
+            }
+          ]
+        },
+        {
+          "name": "Norte Shopping",
+          "visit": [
+            {
+              "hour": "10",
+              "carId": null
+            },
+            {
+              "hour": "11",
+              "carId": null
+            },
+            {
+              "hour": "12",
+              "carId": null
+            },
+            {
+              "hour": "13",
+              "carId": null
+            },
+            {
+              "hour": "14",
+              "carId": null
+            },
+            {
+              "hour": "15",
+              "carId": null
+            },
+            {
+              "hour": "16",
+              "carId": null
+            },
+            {
+              "hour": "17",
+              "carId": null
+            }
+          ],
+          "inspection": [
+            {
+              "hour": "10",
+              "carId": null
+            },
+            {
+              "hour": "11",
+              "carId": 2
+            },
+            {
+              "hour": "12",
+              "carId": null
+            },
+            {
+              "hour": "13",
+              "carId": null
+            },
+            {
+              "hour": "14",
+              "carId": null
+            },
+            {
+              "hour": "15",
+              "carId": null
+            },
+            {
+              "hour": "16",
+              "carId": null
+            },
+            {
+              "hour": "17",
+              "carId": null
+            }
+          ]
+        },
+        {
+          "name": "Barra da Tijuca",
+          "visit": [
+            {
+              "hour": "10",
+              "carId": null
+            },
+            {
+              "hour": "11",
+              "carId": 3
+            },
+            {
+              "hour": "12",
+              "carId": null
+            },
+            {
+              "hour": "13",
+              "carId": null
+            },
+            {
+              "hour": "14",
+              "carId": null
+            },
+            {
+              "hour": "15",
+              "carId": null
+            },
+            {
+              "hour": "16",
+              "carId": null
+            },
+            {
+              "hour": "17",
+              "carId": null
+            }
+          ],
+          "inspection": [
+            {
+              "hour": "10",
+              "carId": 3
+            },
+            {
+              "hour": "11",
+              "carId": 4
+            },
+            {
+              "hour": "12",
+              "carId": 5
+            },
+            {
+              "hour": "13",
+              "carId": null
+            },
+            {
+              "hour": "14",
+              "carId": null
+            },
+            {
+              "hour": "15",
+              "carId": null
+            },
+            {
+              "hour": "16",
+              "carId": null
+            },
+            {
+              "hour": "17",
+              "carId": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2019-07-18",
+      "cavs": [
+        {
+          "name": "Botafogo",
+          "visit": [
+            {
+              "hour": "10",
+              "carId": null
+            },
+            {
+              "hour": "11",
+              "carId": null
+            },
+            {
+              "hour": "12",
+              "carId": null
+            },
+            {
+              "hour": "13",
+              "carId": null
+            },
+            {
+              "hour": "14",
+              "carId": null
+            },
+            {
+              "hour": "15",
+              "carId": null
+            },
+            {
+              "hour": "16",
+              "carId": null
+            },
+            {
+              "hour": "17",
+              "carId": null
+            }
+          ],
+          "inspection": [
+            {
+              "hour": "10",
+              "carId": null
+            },
+            {
+              "hour": "11",
+              "carId": 7
+            },
+            {
+              "hour": "12",
+              "carId": null
+            },
+            {
+              "hour": "13",
+              "carId": null
+            },
+            {
+              "hour": "14",
+              "carId": null
+            },
+            {
+              "hour": "15",
+              "carId": null
+            },
+            {
+              "hour": "16",
+              "carId": null
+            },
+            {
+              "hour": "17",
+              "carId": null
+            }
+          ]
+        },
+        {
+          "name": "Norte Shopping",
+          "visit": [
+            {
+              "hour": "10",
+              "carId": 2
+            },
+            {
+              "hour": "11",
+              "carId": null
+            },
+            {
+              "hour": "12",
+              "carId": null
+            },
+            {
+              "hour": "13",
+              "carId": null
+            },
+            {
+              "hour": "14",
+              "carId": 2
+            },
+            {
+              "hour": "15",
+              "carId": null
+            },
+            {
+              "hour": "16",
+              "carId": null
+            },
+            {
+              "hour": "17",
+              "carId": null
+            }
+          ],
+          "inspection": [
+            {
+              "hour": "10",
+              "carId": null
+            },
+            {
+              "hour": "11",
+              "carId": null
+            },
+            {
+              "hour": "12",
+              "carId": null
+            },
+            {
+              "hour": "13",
+              "carId": null
+            },
+            {
+              "hour": "14",
+              "carId": null
+            },
+            {
+              "hour": "15",
+              "carId": null
+            },
+            {
+              "hour": "16",
+              "carId": null
+            },
+            {
+              "hour": "17",
+              "carId": null
+            }
+          ]
+        },
+        {
+          "name": "Barra da Tijuca",
+          "visit": [
+            {
+              "hour": "10",
+              "carId": null
+            },
+            {
+              "hour": "11",
+              "carId": null
+            },
+            {
+              "hour": "12",
+              "carId": null
+            },
+            {
+              "hour": "13",
+              "carId": null
+            },
+            {
+              "hour": "14",
+              "carId": null
+            },
+            {
+              "hour": "15",
+              "carId": null
+            },
+            {
+              "hour": "16",
+              "carId": null
+            },
+            {
+              "hour": "17",
+              "carId": null
+            }
+          ],
+          "inspection": [
+            {
+              "hour": "10",
+              "carId": null
+            },
+            {
+              "hour": "11",
+              "carId": null
+            },
+            {
+              "hour": "12",
+              "carId": null
+            },
+            {
+              "hour": "13",
+              "carId": null
+            },
+            {
+              "hour": "14",
+              "carId": null
+            },
+            {
+              "hour": "15",
+              "carId": null
+            },
+            {
+              "hour": "16",
+              "carId": null
+            },
+            {
+              "hour": "17",
+              "carId": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
